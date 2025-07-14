@@ -18,6 +18,8 @@ File  | Description
 
 ### CNN models
 
+File  | Description
+------|------------
 [CNN_Datasets.ipynb](CNN_Datasets.ipynb) | Definition of base CNN datasets from raw data.
 [CNN_WalkDatasets.ipynb](CNN_WalkDatasets.ipynb) | Definition of CNN walk datasets from raw data.
 [CNN_Train.ipynb](CNN_Train.ipynb) | Derivation of CNN models.
