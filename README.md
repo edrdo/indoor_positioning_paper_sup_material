@@ -25,6 +25,14 @@ File  | Description
 [CNN_Train.ipynb](CNN_Train.ipynb) | Derivation of CNN models.
 [CNN_Eval.ipynb](CNN_Eval.ipynb) | Evaluation of CNN models.
 
+### Hybrid models
+
+File  | Description
+------|------------
+[HM_SoftVoting.ipynb](HM_SoftVoting.ipynb) | Soft voting model.
+[HM_Stacking.ipynb](HM_Stacking.ipynb) | Stacking models.
+[HM_Eval.ipynb](HM_Eval.ipynb) | Evaluation of hybrid models.
+
 ## Datasets
 
 
