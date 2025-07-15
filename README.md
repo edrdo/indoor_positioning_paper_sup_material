@@ -33,6 +33,12 @@ File  | Description
 [HM_Stacking.ipynb](HM_Stacking.ipynb) | Stacking models.
 [HM_Eval.ipynb](HM_Eval.ipynb) | Evaluation of hybrid models.
 
+### Other
+
+File  | Description
+------|------------
+[ROI_Analysis.ipynb](ROI_Analysis.ipynb) | Results for ROI analysis.
+
 ## Datasets
 
 
