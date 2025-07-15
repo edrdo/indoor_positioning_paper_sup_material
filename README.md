@@ -39,6 +39,13 @@ File  | Description
 ------|------------
 [ROI_Analysis.ipynb](ROI_Analysis.ipynb) | Results for ROI analysis.
 
-## Datasets
+## Data
+
+
+Folder | Description
+-------|-----------
+[`raw_data`](raw_data/) | Raw data acquired.
+[`datasets`](datasets/) | Datasets used for training and testing.
+[`results`](results/) | Result files.
 
 
