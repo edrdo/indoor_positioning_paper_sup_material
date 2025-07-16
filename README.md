@@ -1,9 +1,7 @@
-# indoor_positioning_paper_sup_material
+# Machine Learning Models for Indoor Positioning Using Bluetooth RSSI and Video Data: A Case Study
 
-This repository provides supplementary material to .... PAPER TITLE.
-
-BRIEF Description
-
+This repository provides supplementary material to "_Machine Learning Models for Indoor Positioning Using Bluetooth RSSI and Video Data: A Case Study_", 
+a paper draft by  Tomás Mamede, Nuno Silva, [Eduardo R. B. Marques](https://www.dcc.fc.up.pt/~edrdo), [Luís M. B. Lopes](https://www.dcc.fc.up.pt/~lblopes) from [CRACS / INESC-TEC](https://www.inesctec.pt/en/centres/cracs) and [DCC/FCUP](https://www.dcc.fc.up.pt).
 
 ## Notebooks
 
