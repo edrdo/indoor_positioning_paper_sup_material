@@ -1,4 +1,6 @@
-# Machine Learning Models for Indoor Positioning Using Bluetooth RSSI and Video Data: A Case Study
+[![](https://zenodo.org/badge/DOI/10.5281/zenodo.15980462.svg)](https://doi.org/10.5281/zenodo.15980462)
+
+# Supplementary Material - Machine Learning Models for Indoor Positioning Using Bluetooth RSSI and Video Data: A Case Study
 
 This repository provides supplementary material to "_Machine Learning Models for Indoor Positioning Using Bluetooth RSSI and Video Data: A Case Study_", 
 a paper draft by  Tomás Mamede, Nuno Silva, [Eduardo R. B. Marques](https://www.dcc.fc.up.pt/~edrdo), [Luís M. B. Lopes](https://www.dcc.fc.up.pt/~lblopes) from [CRACS / INESC-TEC](https://www.inesctec.pt/en/centres/cracs) and [DCC/FCUP](https://www.dcc.fc.up.pt).
