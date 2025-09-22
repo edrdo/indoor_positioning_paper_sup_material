@@ -32,6 +32,7 @@ File  | Description
 [`HM_SoftVoting.ipynb`](HM_SoftVoting.ipynb) | Soft voting model.
 [`HM_Stacking.ipynb`](HM_Stacking.ipynb) | Stacking models.
 [`HM_Eval.ipynb`](HM_Eval.ipynb) | Evaluation of hybrid models.
+[`HM_SSAnalysis.ipynb`](HM_SSAnalysis.ipynb) | Hybrid models statistical significance analysis.
 
 ### Other
 
