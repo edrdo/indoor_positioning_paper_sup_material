@@ -15,7 +15,7 @@ File  | Description
 [`BRSSI_WalkDatasets.ipynb`](BRSSI_WalkDatasets.ipynb) | Definition of BRSSI walk datasets from raw data.
 [`BRSSI_Train.ipynb`](BRSSI_Train.ipynb) | Derivation of BRSSI models.
 [`BRSSI_Eval.ipynb`](BRSSI_Eval.ipynb) | Evaluation of BRSSI models.
-[`BRSSI_DataAnalysis.ipynb`] | Analysis of RSSI data per dataset.
+[`BRSSI_DataAnalysis.ipynb`](BRSSI_DataAnalysis.ipynb) | Analysis of RSSI data per dataset.
 
 ### CNN models
 
@@ -25,7 +25,7 @@ File  | Description
 [`CNN_WalkDatasets.ipynb`](CNN_WalkDatasets.ipynb) | Definition of CNN walk datasets from raw data.
 [`CNN_Train.ipynb`](CNN_Train.ipynb) | Derivation of CNN models.
 [`CNN_Eval.ipynb`](CNN_Eval.ipynb) | Evaluation of CNN models.
-[`CNN_DataAnalysis.ipynb`] | Analysis of CNN image data per dataset.
+[`CNN_DataAnalysis.ipynb`](CNN_DataAnalysis.ipynb) | Analysis of CNN image data per dataset.
 
 ### Hybrid models
 
