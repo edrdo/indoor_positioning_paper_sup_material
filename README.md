@@ -25,6 +25,7 @@ File  | Description
 [`CNN_WalkDatasets.ipynb`](CNN_WalkDatasets.ipynb) | Definition of CNN walk datasets from raw data.
 [`CNN_Train.ipynb`](CNN_Train.ipynb) | Derivation of CNN models.
 [`CNN_Eval.ipynb`](CNN_Eval.ipynb) | Evaluation of CNN models.
+[`CNN_DataAnalysis.ipynb`] | Analysis of CNN image data per dataset.
 
 ### Hybrid models
 
